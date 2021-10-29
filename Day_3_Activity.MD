@@ -4,6 +4,7 @@
 
 
 Group Number: 5
+
 Group Name: R.A.H
 
 
@@ -37,7 +38,7 @@ Group Name: R.A.H
 9.	Quick Ratio
   Quick ratio is a financial indicator of short-term liquidity or the ability to raise cash to pay bills due in the next 90 days. Also known as acid-test ratio, quick ratio measures the ability of a business to pay its short-term liabilities. Quick ratio is defined as: quick assets divided by current liabilities, and it is also known as the acid-test ratio and the quick liquidity ratio:
 
-   Quick Ratio = Quick Assets / Current Liabilities
+    Quick Ratio = Quick Assets / Current Liabilities
 
 10.	Working capital ratio  
    Like the quick ratio, this looks at how well a company can pay its existing debts. However, it considers all current assets rather than simply liquid assets, so you don’t need to subtract inventory from the equation. The working capital ratio looks like this when written as a formula:
