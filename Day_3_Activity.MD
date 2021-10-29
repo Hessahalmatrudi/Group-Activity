@@ -2,9 +2,11 @@
 ## In this activity, create a glossary of all new terms (concepts or words) you've encountered
 
 
-Group Number: 5
 
+Group Number: 5
 Group Name: R.A.H
+
+
 
 
 
