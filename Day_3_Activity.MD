@@ -3,9 +3,10 @@
 
 
 Group Number: 5
+
 Group Name: R.A.H
 
-Example:
+
 
 1. Income Statement:  
   An income statement is a financial statement that shows you the company's income and expenditures. It also shows whether a company is making profit or loss for a given period. The income statement, along with balance sheet and cash flow statement, helps you understand the financial health of your business.
